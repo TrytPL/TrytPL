@@ -13,7 +13,9 @@ Hello I'm a young programmer still learning coding. I am trying to improve my co
 <img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
           
-          
+         
 ### 🔥 Streaks         
           
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TrytPL)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TrytPL&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+          
