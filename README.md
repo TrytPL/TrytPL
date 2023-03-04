@@ -18,4 +18,7 @@ Hello I'm a young programmer still learning coding. I am trying to improve my co
           
 [![GitHub Streak](https://streak-stats.demolab.com?user=TrytPL&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
+<details>
+          <summary><h3>😎 My Coding Journey </h3></summary>
+          Its just a beginning
           
